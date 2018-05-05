@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : @HiMoxY™#1027  ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`adamhamrita.ga| HiMoxY`,"https://www.twitch.tv/adoumy_noob")
+client.user.setGame(`adamhamrita.ga|AdouMyNoob`,"https://www.twitch.tv/adoumy_noob")
 client.user.setStatus("dnd")
 });
 
